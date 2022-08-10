@@ -1,0 +1,8 @@
+*********************************************************useful websites*****************************************************
+developper.mozilla.org------------>HTML documentation
+www.w3schools.org------------->HTML documentation
+devdocs.io--------------->HTML documentation
+web.archive.org-------------->archive of site
+docs.emmet.io/cheat-sheet---------->HTML documentation
+unicode-table.com--------->for add emoji in your text
+crop-circle.imageonline.co---------------->for make your images in circle
